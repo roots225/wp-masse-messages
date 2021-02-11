@@ -1,0 +1,15 @@
+{
+    "name": "roots225/masse-messages",
+    "description": "Send bulk sms and whatsapp",
+    "type": "library",
+    "require": {
+        "bulkgate/sms": "^2.0.5"
+    },
+    "authors": [
+        {
+            "name": "Gilles Yao",
+            "email": "gillesyao12@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
